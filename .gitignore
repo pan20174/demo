@@ -1,5 +1,6 @@
 #file
 *.py
-
+*.txt
 #run dir
 run/
+scr/
